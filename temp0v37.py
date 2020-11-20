@@ -36,4 +36,5 @@ with g.as_default():
 print (" end of pgm test0.py for imports ")
 print (" added extra line to enhance s/w characteristics -- Starwars")
 print (" added another line for Luke Skywalker ")
+print (" added another line for Darth Vader, even though he no longer exists in Nov 2020")
 
