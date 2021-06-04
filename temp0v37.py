@@ -12,7 +12,7 @@ print ("imported numpy(nm), pandas(pd), scipy(sc) ")
 import tensorflow as tf
 print ("imported tensorflow(tf)")
 
-c = tf.constant("Hello World!")
+c = tf.constant("Hello World!!")
 with tf.Session() as sess:
        print (sess.run(c))
 
