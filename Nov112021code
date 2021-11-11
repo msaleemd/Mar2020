@@ -13,7 +13,7 @@ import tensorflow as tf
 print ("imported tensorflow(tf)")
 
 # Code introduced on Nov/11/2021 Thu
-print ("New Code Nov/11/2021 Thursday")
+print ("New Code Nov/11/2021 Thu")
 
 c = tf.constant("Hello World!!")
 with tf.Session() as sess:
