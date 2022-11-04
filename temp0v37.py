@@ -34,7 +34,7 @@ with g.as_default():
         print (my_sum.eval())
 
 print (" end of pgm test0.py for imports ")
-print (" added extra line to enhance s/w characteristics -- Starwars")
+print (" added extra line to enhance s/w characteristics -- Starwars for interstellar quantum leap at CS02 Nov/03/2022 @ 09:05 pm PDT")
 print (" added another line for Luke Skywalker - a new entry on Nov/02/2022 at 2:35pm PDT")
 print (" added another line for Darth Vader, even though he no longer exists in Nov 2022")
 print (" added another line for Princess Leah, for the Nov 2022 CS02 galactic activity - further update on Nov/03/2022 at 02:13 pm PDT")
